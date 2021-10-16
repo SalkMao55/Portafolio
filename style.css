@@ -1,3 +1,22 @@
 h1, h2 {
   font-family: Lato;
 }
+
+body {
+  background-color: azure;
+}
+
+#welcome {
+  background-color: beige;
+  height: max-content;
+  width: max-content;
+}
+
+#app {
+  background-color: cyan;
+}
+
+#view_contacto {
+  background-color: #D5F7F6;
+  height: 10em;
+}
